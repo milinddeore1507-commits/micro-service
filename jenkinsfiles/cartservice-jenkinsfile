@@ -43,7 +43,7 @@ pipeline {
             environment {
                 GIT_REPO_NAME = "micro-service"
                 GIT_EMAIL = "milinddeore1507@gmail.com"
-                GIT_USER_NAME = "milindddeore1507-commits"
+                GIT_USER_NAME = "milinddeore1507-commits"
                 IMAGE_NAME = "cartservice"
                 REPO_URL = "776163183253.dkr.ecr.ap-south-1.amazonaws.com/cartservice"
                 YAML_FILE = "cartservice.yaml"
